@@ -1,0 +1,4 @@
+com\miequipo\miservidorrest\resources\JakartaEE9Resource.class
+com\miequipo\servicio\MiRecurso.class
+com\miequipo\servicio\Calculadora.class
+com\miequipo\miservidorrest\JakartaRestConfiguration.class
